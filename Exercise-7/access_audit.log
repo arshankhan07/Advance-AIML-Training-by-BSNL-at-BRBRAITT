@@ -1,0 +1,3 @@
+[2026-03-12 10:44:46] role=junior_analyst fields=['customer_id', 'name', 'phone', 'address', 'plan_type', 'arpu_inr']
+[2026-03-12 10:44:46] role=senior_analyst fields=['customer_id', 'name', 'phone', 'address', 'plan_type', 'arpu_inr']
+[2026-03-12 10:44:46] role=manager fields=['customer_id', 'name', 'phone', 'address', 'plan_type', 'arpu_inr']
